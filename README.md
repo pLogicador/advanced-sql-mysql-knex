@@ -24,5 +24,5 @@ As principais dependências incluem:
 ## Estrutura do Projeto
 - **migrations/**: contém as migrações do banco de dados para gerenciar a estrutura das tabelas.
 - **knexfile.js**: configurações do Knex para conectar ao banco de dados
-- **queries/**: contém as consultas SQL para testar diferentes comandos e funcionalidades com Knex.js.
+- **knex/queries/**: contém as consultas SQL para testar diferentes comandos e funcionalidades com Knex.js.
 
